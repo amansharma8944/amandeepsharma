@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/amandeepsharma/static/css/main.bcaaa2ad.css",
+    "main.js": "/amandeepsharma/static/js/main.67a301f8.js",
+    "index.html": "/amandeepsharma/index.html",
+    "main.bcaaa2ad.css.map": "/amandeepsharma/static/css/main.bcaaa2ad.css.map",
+    "main.67a301f8.js.map": "/amandeepsharma/static/js/main.67a301f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcaaa2ad.css",
+    "static/js/main.67a301f8.js"
+  ]
+}
