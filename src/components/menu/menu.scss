@@ -1,0 +1,41 @@
+.menu{
+
+   width:300px;
+   background-color:rgb(249, 246, 249);
+   color:white;
+   height:100vh;
+   position: fixed;
+   top:0;
+   right:-400px;
+   z-index: 2;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   border:5px solid black;
+   transition: all 2s;
+   ul{
+
+font-size:30px;
+text-align: start;
+margin-right:79px;
+margin-bottom:126px;
+      li{
+
+         margin-bottom: 50px;
+         a{
+      text-decoration: none;
+
+             }
+          
+
+             
+            }
+            li:hover{
+                 transform: scale(1.1);
+                 font-weight: bold;
+                 transition: all 0.5s;
+               }
+   }
+}
+
+
