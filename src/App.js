@@ -25,7 +25,7 @@ function App() {
   <Portfolio/>
   <Work/>
   <Testinomial/>
-  <Contact/>
+
 
     </div>
     </div>
